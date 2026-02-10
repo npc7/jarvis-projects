@@ -1,0 +1,24 @@
+{
+  "params": {
+    "adx_threshold": 15,
+    "trailing_stop_pct": 0.08,
+    "breakout_confirm_days": 1,
+    "vol_scale_factor": 1.0
+  },
+  "result": {
+    "strategy_name": "EnhancedVolatility",
+    "total_return": 49.48,
+    "annual_return": 7.06,
+    "max_drawdown": -12.98,
+    "sharpe_ratio": 0.413,
+    "sortino_ratio": 0.377,
+    "calmar_ratio": 0.544,
+    "win_rate": 31.25,
+    "profit_factor": 4.18,
+    "total_trades": 16,
+    "avg_trade_return": 9.43,
+    "max_consecutive_losses": 6,
+    "max_drawdown_duration": 721,
+    "final_capital": 149478.75
+  }
+}

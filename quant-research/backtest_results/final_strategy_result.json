@@ -1,0 +1,30 @@
+{
+  "strategy_name": "Conservative_Multi_Asset",
+  "total_return": 131.5,
+  "annual_return": 12.67,
+  "monthly_return_avg": 1.02,
+  "monthly_return_std": 2.24,
+  "best_month": 8.14,
+  "worst_month": -3.62,
+  "positive_months_pct": 66.7,
+  "max_drawdown": -12.59,
+  "max_drawdown_duration": 521,
+  "volatility": 6.92,
+  "downside_volatility": 4.93,
+  "var_95": -0.62,
+  "sharpe_ratio": 1.475,
+  "sortino_ratio": 2.07,
+  "calmar_ratio": 1.006,
+  "information_ratio": -0.318,
+  "total_days": 2569,
+  "rebalances": 84,
+  "avg_position": 0.57,
+  "weights": {
+    "BTC": 0.1,
+    "SPY": 0.45,
+    "GLD": 0.27,
+    "TLT": 0.18
+  },
+  "target_volatility": 0.06,
+  "final_capital": 231504.13
+}

@@ -1,0 +1,132 @@
+{
+  "results": [
+    {
+      "strategy_name": "Equal_Weight",
+      "total_return": 762.69,
+      "annual_return": 35.6,
+      "max_drawdown": -47.78,
+      "sharpe_ratio": 1.105,
+      "sortino_ratio": 1.475,
+      "calmar_ratio": 0.745,
+      "volatility": 29.77,
+      "weights": {
+        "BTC": 0.2,
+        "ETH": 0.2,
+        "SPY": 0.2,
+        "GLD": 0.2,
+        "TLT": 0.2
+      },
+      "final_capital": 862689.11
+    },
+    {
+      "strategy_name": "Risk_Parity",
+      "total_return": 1052.49,
+      "annual_return": 41.26,
+      "max_drawdown": -49.86,
+      "sharpe_ratio": 1.121,
+      "sortino_ratio": 1.46,
+      "calmar_ratio": 0.827,
+      "volatility": 34.12,
+      "weights": {
+        "BTC": 0.2733,
+        "ETH": 0.2148,
+        "SPY": 0.4119,
+        "GLD": 0.05,
+        "TLT": 0.05
+      },
+      "final_capital": 1152492.54
+    },
+    {
+      "strategy_name": "Momentum_Weight",
+      "total_return": 1721.22,
+      "annual_return": 50.7,
+      "max_drawdown": -51.11,
+      "sharpe_ratio": 1.114,
+      "sortino_ratio": 1.405,
+      "calmar_ratio": 0.992,
+      "volatility": 43.63,
+      "weights": {
+        "BTC": 0.0806,
+        "ETH": 0.0806,
+        "SPY": 0.1134,
+        "GLD": 0.6448,
+        "TLT": 0.0806
+      },
+      "final_capital": 1821223.73
+    },
+    {
+      "strategy_name": "BTC_Traditional",
+      "total_return": 377.26,
+      "annual_return": 24.71,
+      "max_drawdown": -35.38,
+      "sharpe_ratio": 1.218,
+      "sortino_ratio": 1.583,
+      "calmar_ratio": 0.699,
+      "volatility": 17.73,
+      "weights": {
+        "BTC": 0.2,
+        "ETH": 0.0,
+        "SPY": 0.4,
+        "GLD": 0.2,
+        "TLT": 0.2
+      },
+      "final_capital": 477258.62
+    },
+    {
+      "strategy_name": "Crypto_Heavy",
+      "total_return": 1395.61,
+      "annual_return": 46.56,
+      "max_drawdown": -59.33,
+      "sharpe_ratio": 1.061,
+      "sortino_ratio": 1.395,
+      "calmar_ratio": 0.785,
+      "volatility": 42.69,
+      "weights": {
+        "BTC": 0.4,
+        "ETH": 0.2,
+        "SPY": 0.4,
+        "GLD": 0.0,
+        "TLT": 0.0
+      },
+      "final_capital": 1495609.82
+    }
+  ],
+  "correlation_matrix": {
+    "BTC": {
+      "BTC": 1.0,
+      "ETH": 0.7967328849292012,
+      "SPY": 0.28590346135464306,
+      "GLD": 0.11038940006177178,
+      "TLT": -0.024044910052201038
+    },
+    "ETH": {
+      "BTC": 0.7967328849292012,
+      "ETH": 1.0,
+      "SPY": 0.31043137867150333,
+      "GLD": 0.10139592535542584,
+      "TLT": -0.02840866129936954
+    },
+    "SPY": {
+      "BTC": 0.28590346135464306,
+      "ETH": 0.31043137867150333,
+      "SPY": 1.0,
+      "GLD": 0.09234035708407726,
+      "TLT": -0.14893465041929999
+    },
+    "GLD": {
+      "BTC": 0.11038940006177178,
+      "ETH": 0.10139592535542584,
+      "SPY": 0.09234035708407726,
+      "GLD": 1.0,
+      "TLT": 0.2415660394401201
+    },
+    "TLT": {
+      "BTC": -0.024044910052201038,
+      "ETH": -0.02840866129936954,
+      "SPY": -0.14893465041929999,
+      "GLD": 0.2415660394401201,
+      "TLT": 1.0
+    }
+  },
+  "timestamp": "2026-02-09T20:42:08.407991"
+}

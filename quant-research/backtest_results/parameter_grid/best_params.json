@@ -1,0 +1,18 @@
+{
+  "best_sharpe": {
+    "momentum_period": 30,
+    "target_volatility": 0.15,
+    "stop_loss_pct": 0.03,
+    "annual_return": 12.03,
+    "max_drawdown": -16.44,
+    "sharpe_ratio": 0.523
+  },
+  "best_return": {
+    "momentum_period": 30,
+    "target_volatility": 0.12,
+    "stop_loss_pct": 0.03,
+    "annual_return": 9.54,
+    "max_drawdown": -13.17,
+    "sharpe_ratio": 0.473
+  }
+}

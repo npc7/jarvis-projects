@@ -1,0 +1,98 @@
+[
+  {
+    "strategy_name": "VolTarget_8%",
+    "total_return": 122.3,
+    "annual_return": 12.02,
+    "max_drawdown": -15.54,
+    "sharpe_ratio": 1.01,
+    "sortino_ratio": 1.442,
+    "calmar_ratio": 0.774,
+    "volatility": 9.78,
+    "avg_position": 0.26,
+    "final_capital": 222296.15
+  },
+  {
+    "strategy_name": "VolTarget_8%_NoMom",
+    "total_return": 122.3,
+    "annual_return": 12.02,
+    "max_drawdown": -15.54,
+    "sharpe_ratio": 1.01,
+    "sortino_ratio": 1.442,
+    "calmar_ratio": 0.774,
+    "volatility": 9.78,
+    "avg_position": 0.26,
+    "final_capital": 222296.15
+  },
+  {
+    "strategy_name": "VolTarget_10%",
+    "total_return": 160.88,
+    "annual_return": 14.6,
+    "max_drawdown": -19.16,
+    "sharpe_ratio": 1.045,
+    "sortino_ratio": 1.493,
+    "calmar_ratio": 0.762,
+    "volatility": 11.84,
+    "avg_position": 0.32,
+    "final_capital": 260879.74
+  },
+  {
+    "strategy_name": "VolTarget_10%_NoMom",
+    "total_return": 160.88,
+    "annual_return": 14.6,
+    "max_drawdown": -19.16,
+    "sharpe_ratio": 1.045,
+    "sortino_ratio": 1.493,
+    "calmar_ratio": 0.762,
+    "volatility": 11.84,
+    "avg_position": 0.32,
+    "final_capital": 260879.74
+  },
+  {
+    "strategy_name": "VolTarget_12%",
+    "total_return": 208.13,
+    "annual_return": 17.34,
+    "max_drawdown": -22.53,
+    "sharpe_ratio": 1.069,
+    "sortino_ratio": 1.519,
+    "calmar_ratio": 0.77,
+    "volatility": 14.08,
+    "avg_position": 0.38,
+    "final_capital": 308127.47
+  },
+  {
+    "strategy_name": "VolTarget_12%_NoMom",
+    "total_return": 208.13,
+    "annual_return": 17.34,
+    "max_drawdown": -22.53,
+    "sharpe_ratio": 1.069,
+    "sortino_ratio": 1.519,
+    "calmar_ratio": 0.77,
+    "volatility": 14.08,
+    "avg_position": 0.38,
+    "final_capital": 308127.47
+  },
+  {
+    "strategy_name": "VolTarget_15%",
+    "total_return": 296.11,
+    "annual_return": 21.6,
+    "max_drawdown": -27.47,
+    "sharpe_ratio": 1.093,
+    "sortino_ratio": 1.55,
+    "calmar_ratio": 0.786,
+    "volatility": 17.54,
+    "avg_position": 0.47,
+    "final_capital": 396111.0
+  },
+  {
+    "strategy_name": "VolTarget_15%_NoMom",
+    "total_return": 296.11,
+    "annual_return": 21.6,
+    "max_drawdown": -27.47,
+    "sharpe_ratio": 1.093,
+    "sortino_ratio": 1.55,
+    "calmar_ratio": 0.786,
+    "volatility": 17.54,
+    "avg_position": 0.47,
+    "final_capital": 396111.0
+  }
+]
